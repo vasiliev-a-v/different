@@ -1,0 +1,20 @@
+advance: перенос строки (line advance) (продвижение)
+extraneous: посторонний
+essentially: по существу
+precedence: приоритет (операторов)
+assignment: назначение, задание, присваивание
+suggestions: предложения
+arbitrary: произвольный
+either: или
+distinctive: отличительный
+constrain: ограничивать
+fractional: дробный
+however: однако, тем не менее
+nonetheless: тем не менее
+arbitrary: произвольный
+treatment: трактовка (изложение)
+complicated: сложных
+observation: наблюдение
+occasionally: иногда, изредка, порой, нерегулярно, случайно
+suggestions: предложения
+clarify: прояснить

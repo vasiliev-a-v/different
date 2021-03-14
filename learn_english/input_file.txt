@@ -1,0 +1,272 @@
+occurrence: случай, вхождение, событие (occurrences of each digit - появления каждой цифры)
+occur: происходить (occurs frequently - часто встречается/происходит)
+caution: осторожность, предупреждение, поручитель, обеспечение
+newcomers: новичок, незнакомец
+occasionally: иногда, изредка, порой, нерегулярно, случайно
+obvious: очевидный, ясный, понятный, банальный
+legal: легальный, законный, правовой
+strings versus: сравнение строк (strings versus characters - посимвольное ср. стр.)
+unambiguous: недвусмысленный, точно выраженный (express)
+bare-bones: "голые кости" - скелет, костяк, основа (a bare-bones version - прототип)
+loose: широкий, свободный (loose definition - широкое определение)
+whether: ли (союз), который (местоимение)
+currently: в настоящее время, теперь, свободно, легко
+tiny: крошечный
+increase: повышение, рост, возрастание, увеличение
+worth: стоит, стоимость
+modest: скромный
+extra: дополнительно
+effort: усилие
+consequence: следствие, результат, вывод, важность, значение
+special case: особый случай
+escape sequence: управляющая последовательность (\t, \n и т.д.)
+representation: представление (visible representation)
+falsehood: ложь
+artificial: искусственный
+subscript: индекс (array subscripts - индексы массива)
+reflect: отражать
+rely: полагаться, опираться (relies - полагается)
+determine: определять, вычислять, устанавливать, решать, измерять, кончать(ся)
+consecutive: последовательный
+fortunately: к счастью
+identical: идентичен, равен
+thus: таким образом, так, поэтому
+decision: решение (от decide - решать(ся), принимать решение)
+entire: весь
+advisable: целесообразный, рекомендуемый, благоразумный
+march off the right side: отступает правее
+discusse: обсуждать, потолковать
+branch: ветвь, отрасль (switch - milti-way branch
+challenging: сложный
+sufficient: достаточный
+sue of functions: вызов функций (sue/request - запрос, просить)
+exponentiation: возведение в степень
+routine: стандартная программа, распорядок, рутина
+a function definition: определение функции
+Indeed: Действительно
+assume: предполагать, считать
+lead: вести, приводить, руководить
+is an asset: является преимуществом
+fewer: меньше
+extraneous: посторонний
+property: свойство
+above: выше
+absence: отсутствие
+accessible: доступный
+accumulate: накапливать, собирать, аккумулировать
+accurate: точный
+addition: дополнение
+advance: перенос строки (line advance) (продвижение)
+although: хотя
+among others: среди прочего
+among: среди
+amount: количество
+annoys: раздражает
+approach: подход
+arbitrary: произвольный
+as follows: следующим образом
+assignment statements: операторы присваивания
+assignment: назначение, задание, присваивание
+assume: предполагать
+at a glance: с одного взгляда
+attempt: попытка
+augment: дополнять, увеличивать, прибавлять, шаг
+behaviour: поведение
+belief: мнение, убеждение, вера
+besides: кроме того, сверх того, помимо, притом
+bogged: погрязнуть
+botched: неудачной
+braces: фигурные скобки
+brevity: краткость
+brief: краткий
+cause: заставлять, основание (для)
+centigrade: стоградусная шкала (по Цельсию)
+clarify: прояснить
+communicating data: передача данных
+comparatively: сравнительно
+complicated: сложных
+comprehension: понимание
+concepts: понятия
+concise: краткий
+condition: условие, состояние, положение - if (condition)
+conforms: соответствует
+confused: спутанный
+consider: рассматривать
+consistently: последовательно
+constrain: ограничивать
+control flow: управление потоком (в книге - управляющие конструкции или управляющие операторы)
+convenient: удобный
+conventionally: условно
+conversion: преобразование
+convey: передать
+cope: справляться
+corresponding: соответствующий
+couple: пара
+curb: обуздать
+dash: тире
+defer: откладывать
+definition: определение
+derivative: производное
+discarded: отбрасываются
+distinctive: отличительный
+distinguished: выдающийся, известный, заслуженный, необычный, видный
+distinguishing: различая
+division: деление (операция деления)
+efficient: эффективный
+either: или
+elimination: ликвидация
+emphasizes: подчеркивает
+ensure: обеспечивать
+essentially: по существу
+evaluated: оценка
+evolved: эволюционировали
+exceeds: превышает
+exceptions: исключения
+except: за исключением
+exclusively: исключительно
+explanations: объяснения
+explicitly: ясно
+exposition: ОПИСАНИЕ
+extensive: обширный
+familiarity: знакомство
+features: особенности
+follows: следует, следующим
+fractional: дробный
+further: далее
+generalization: обобщение
+general-purpose: общего назначения
+get carried away: увлекаться
+hence: отсюда
+however: однако, тем не менее
+impenetrable: непроницаемый
+implemented: реализованы
+implementers: исполнителей (разработчиков)
+improved: улучшенный
+increment: увеличить (увеличение)
+indent: отступ (indentation)
+In either case: В любом случае
+initial: начальный
+instance: случай
+instance: случай (For instance - Например)
+instead: вместо
+intentionally: намеренно
+interleave: чередовать, перемежать
+internally: внутренне
+introductory: вводный
+is paired: в паре
+itself: сам
+least: как минимум (at least - по крайней мере)
+listed: перечисленные
+magnitude: величина
+major: основной
+mastered: освоено
+match up: совпадают
+mentioned: упомянутый
+mention: упоминать (mentioned above - упомянутый выше)
+merely: просто
+mere: простой
+might: может быть
+misspelling: неправильное написание
+nonetheless: тем не менее
+notation: представление (обозначение)
+noted: отметили
+observation: наблюдение
+occurrence: случай, вхождение, событие (occurrences of each digit - появления каждой цифры)
+occur: происходить (occurs frequently - часто встречается/происходит)
+omitting: опуская (пропуск буквы)
+order: порядок
+originally: первоначально
+overflow: переполнение
+parentheses: круглые скобки
+particular: особый
+passionate: страстный
+performing: выполнение
+perform: выполнять
+permits: разрешений
+Pick: Выбирать
+plenty: много
+precedence: приоритет (операторов)
+precise: точный
+precision: точность double-precision (с двойной точностью)
+preface: предисловие
+processing: обработка
+proper: надлежащий
+provide: обеспечивать (предоставлять)
+purpose: цель
+quantity: количество
+quotes: кавычки
+range: диапазон
+rather than: а не
+ratio: соотношение (деление)
+reach: достигать
+readily: легко (readily distinguished - легко отличить)
+recognizes: признает
+reference: ссылка
+regardless: независимо
+related: связанные
+relational operator: оператор сравнения
+relational: отношения сравнения (реляционный)
+relatively: относительно
+remains: остается
+represent: представляет
+requires: требуется
+responsibility: ответственность
+restrictions: Ограничения
+retain: сохранять
+revising: пересмотр
+rudiments: основы
+section: раздел (в книге)
+semicolon: точка с запятой
+separate: отдельный (независимый)
+sequence: последовательность
+shrink: сокращаться
+significant: значительный
+similar: аналогичный
+specifically: конкретно
+specifies: указывает (устанавливает)
+specify: указывать
+stages: этапы
+statements: операторы (блок операторов в функции)
+stick: придерживаться
+subroutines: Подпрограммы
+substituted: замещенный
+subtle: тонкий
+suggestions: предложения
+suits: (глагол) подходит
+summary: резюме (описание, справочник)
+supposedly: предположительно
+suppress: подавлять 
+surprising: удивительный
+terminate: завершать(ся)
+thereafter: после этого
+thoughtful: вдумчивый
+tied: связанный
+treatment: трактовка (изложение)
+truncates: усекает (при делении целые числа)
+typing: (the command) ввод (комманды)
+undesired: нежелательный
+until: до
+valid: достоверный (действительный)
+variation: изменение
+vice versa: наоборот
+whatever: любой (независимо от)
+worthwhile: стОящий
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 

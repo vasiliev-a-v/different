@@ -1,0 +1,200 @@
+above выше
+absence отсутствие
+accessible доступный
+accurate точный
+advance перенос строки (line advance) (продвижение)
+Although Хотя
+Among others , Среди прочего,
+Among Среди
+annoys раздражает
+approach подход
+arbitrary произвольный
+as follows следующим образом
+assignment statements операторы присваивания
+assignment назначение, задание, присваивание
+assume предполагать
+at a glance с одного взгляда
+attempt попытка
+augment дополнять, увеличивать, прибавлять, шаг
+behaviour поведение
+belief мнение, убеждение, вера
+besides кроме того, сверх того, помимо, притом
+bogged погрязнуть
+botched неудачной
+braces фигурные скобки
+brevity краткость
+brief краткий
+cause заставлять, основание (для)
+centigrade стоградусная шкала (по Цельсию)
+clarify прояснить
+communicating data передача данных
+comparatively сравнительно
+complicated сложных
+comprehension понимание
+concepts понятия
+concise краткий
+condition состояние
+conforms соответствует
+consistently последовательно
+constrain ограничивать
+control flow управление потоком (в книге - управляющие конструкции или управляющие операторы)
+convenient удобный
+conventionally условно
+convey передать
+corresponding соответствующий
+couple пара
+dash тире
+defer откладывать
+definition определение
+derivative производное
+discarded отбрасываются
+distinguished выдающийся, известный, заслуженный, необычный, видный
+division деление (операция деления)
+elimination ликвидация
+emphasizes подчеркивает
+essentially по существу
+evaluated оценка
+evolved эволюционировали
+exceeds превышает
+exceptions исключения
+except за исключением
+exclusively исключительно
+explanations объяснения
+explicitly ясно
+exposition ОПИСАНИЕ
+extensive обширный
+familiarity знакомство
+features особенности
+follows следует, следующим
+fractional дробный
+further далее
+generalization обобщение
+general-purpose общего назначения
+however однако, тем не менее
+implemented реализованы
+implementers исполнителей (разработчиков)
+improved улучшенный
+increment увеличить (увеличение)
+indent отступ (indentation)
+In either case В любом случае
+initial начальный
+instance случай
+instance случай (For instance - Например)
+instead вместо
+intentionally намеренно
+introductory вводный
+is paired в паре
+itself сам
+least как минимум (at least - по крайней мере)
+listed перечисленные
+magnitude величина
+major основной
+mastered освоено
+match up совпадают
+merely просто
+mere простой
+might может быть
+misspelling неправильное написание
+Nonetheless Тем не менее
+notation представление (обозначение)
+noted отметили
+observation наблюдение
+occurrence случай
+occur происходить
+omitting опуская (пропуск буквы)
+order порядок
+originally первоначально
+parentheses круглые скобки
+particular особый
+passionate страстный
+performing выполнение
+perform выполнять
+permits разрешений
+Pick Выбирать
+plenty много
+precise точный
+precision точность double-precision (с двойной точностью)
+preface предисловие
+proper надлежащий
+provide обеспечивать (предоставлять)
+purpose цель
+quantity количество
+quotes кавычки
+range диапазон
+rather than а не
+ratio соотношение (деление)
+readily легко (readily distinguished - легко отличить)
+recognizes признает
+related связанные
+remains остается
+represent представляет
+requires требуется
+restrictions Ограничения
+retain сохранять
+revising пересмотр
+rudiments основы
+section раздел (в книге)
+semicolon точка с запятой
+separate отдельный (независимый)
+sequence последовательность
+significant значительный
+specifies указывает (устанавливает)
+specify указывать
+stages этапы
+statements операторы (блок операторов в функции)
+subroutines Подпрограммы
+substituted замещенный
+suggestions предложения
+suits (глагол) подходит
+summary резюме (описание, справочник)
+supposedly предположительно
+Thereafter После этого
+thoughtful вдумчивый
+tied связанный
+treatment трактовка (изложение)
+truncates усекает (при делении целые числа)
+typing (the command) ввод (комманды)
+until до
+variation изменение
+vice versa наоборот
+whatever любой (независимо от)
+worthwhile стОящий
+consider рассматривать
+processing обработка
+regardless независимо
+responsibility ответственность
+interleave чередовать, перемежать
+amount количество
+surprising удивительный
+relational отношения сравнения (реляционный)
+relational operator оператор сравнения
+specifically конкретно
+subtle тонкий
+distinguishing различая
+distinctive отличительный
+internally внутренне
+valid достоверный (действительный)
+confused спутанный
+addition дополнение
+reach достигать
+reference ссылка
+shrink сокращаться
+get carried away увлекаться
+impenetrable непроницаемый
+curb обуздать
+precedence приоритет (операторов)
+undesired нежелательный
+similar аналогичный
+efficient эффективный
+either или
+stick придерживаться
+accumulate накапливать, собирать, аккумулировать
+relatively относительно
+overflow переполнение
+conversion преобразование
+cope справляться
+suppress подавлять 
+mentioned упомянутый
+ensure обеспечивать
+terminate завершать(ся)
+Hence Отсюда
