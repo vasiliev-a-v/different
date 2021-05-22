@@ -1,0 +1,25 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<script src="scriptmaker.js"></script>
+	<title>scriptmaker</title>
+</head>
+<body>
+
+<form name="my_form">
+	<pre>
+убрать перенос строки	<input checked type="radio" name="slash_n">
+заменять перенос на \n	<input type="radio" name="slash_n">
+	</pre>исходные данные<br>
+	<textarea name="input_data" cols="70" onclick="select()" rows="10"></textarea>
+	<br>
+	<input type="button" onclick="module_number = make_HTML_to_script(my_form.input_data.value, module_number)" value="перевести">
+	<br>
+	выходные данные (вложить в script_file.js)<br>
+	<textarea name="output_data" cols="70" onclick="select()" rows="10"></textarea>
+	<br>
+	вставляем в текст HTML-страницы в нужном месте<br>
+	<input onclick="select()" type="text" size="70" name="result_code">
+</form>
+</body>
+</html>
